@@ -165,28 +165,28 @@ p {
 } */
 
 .slide:first-child {
-    background: url('https://user-images.githubusercontent.com/30352484/103484296-fc468500-4ded-11eb-8cef-6a7140bbdf57.jpg') no-repeat center center/cover;
+    background: url('https://user-images.githubusercontent.com/30352484/103486602-4ab04f80-4dff-11eb-97f2-9f20a95eb765.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(2){
-    background: url('https://user-images.githubusercontent.com/30352484/103484292-ee90ff80-4ded-11eb-9593-e741c09cdec1.jpg') no-repeat center center/cover;
+    background: url('https://user-images.githubusercontent.com/30352484/103486596-44ba6e80-4dff-11eb-8403-b76465762b3e.jpg') no-repeat center center/cover;
 
 }
 
 .slide:nth-child(3){
-    background: url('https://user-images.githubusercontent.com/30352484/103484245-93f7a380-4ded-11eb-9dbb-28dfc2ea0cf1.jpg') no-repeat center center/cover;
+    background: url('https://user-images.githubusercontent.com/30352484/103486579-2ce2ea80-4dff-11eb-9c26-7d9f93c6efc8.jpg') no-repeat center center/cover;
 
 }
 
 .slide:nth-child(4){
-    background: url('https://user-images.githubusercontent.com/30352484/103484250-9ce87500-4ded-11eb-8400-c47796ca56cb.jpg') no-repeat center center/cover;
+    background: url('https://user-images.githubusercontent.com/30352484/103486580-32403500-4dff-11eb-9cc4-0f1864cce67e.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(5){
-    background: url('https://user-images.githubusercontent.com/30352484/103484252-a5d94680-4ded-11eb-9386-76a77e0d3e49.jpg') no-repeat center center/cover;
+    background: url('https://user-images.githubusercontent.com/30352484/103486587-38361600-4dff-11eb-9405-36aabaf3d092.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(6){
-    background: url('https://user-images.githubusercontent.com/30352484/103484287-e638c480-4ded-11eb-8e5c-9ebfe8278b11.jpg') no-repeat center center/cover;
+    background: url('https://user-images.githubusercontent.com/30352484/103486594-3e2bf700-4dff-11eb-94bb-4488cd3bb6d0.jpg') no-repeat center center/cover;
 }
 
