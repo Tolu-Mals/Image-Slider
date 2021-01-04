@@ -190,3 +190,27 @@ p {
     background: url('https://user-images.githubusercontent.com/30352484/103486594-3e2bf700-4dff-11eb-94bb-4488cd3bb6d0.jpg') no-repeat center center/cover;
 }
 
+
+/* Media Queries for Responsiveness  */
+@media screen and (max-width: 855px){
+    h1.title {
+        font-size: 2.2em;
+    }
+
+    p.text {
+        font-size: 1.1em;
+    }
+
+    .menu {
+        font-size:0.8em;
+    }
+}
+
+@media screen and (max-width: 500px){
+
+   .slide.current .content {
+        transform: translateY(-1100px);
+        width: 80%;
+   }
+
+}
